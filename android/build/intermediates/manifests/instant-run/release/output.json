@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":7,"versionName":"1.1.2","enabled":true,"outputFile":"android-release.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"tk.sebastjanmevlja.spaceinvaders","split":"","minSdkVersion":"16"}}]

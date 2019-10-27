@@ -1,0 +1,4 @@
+#Sat Jun 09 20:03:25 CEST 2018
+base.0=D\:\\Drive\\4.RA\\FinalProject\\Space invaders\\SpaceInvaders\\android\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
