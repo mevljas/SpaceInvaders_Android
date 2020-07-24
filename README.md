@@ -1,4 +1,4 @@
-# SpaceInvaders Android
+# SpaceInvaders Android edition
 The goal of the project is to create a video game for the Android operating system. It is based
 on the once popular Space Invaders game and contains many improvements. The goal of the
 game is to win all the levels by defeating all of the opponents and scoring as many points as
