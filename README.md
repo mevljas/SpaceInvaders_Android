@@ -6,4 +6,4 @@ possible. The main purpose of the game is to operate a spacecraft, shoot at the 
 avoid their missiles. It consists of three different levels, which the player has to play through.
 The game is made in the Java programming language and uses the LibGDX library. It is
 optimized for all current screen resolutions and Android versions. The application is available
-on the Google Play store. 
+on the [Google Play store](https://play.google.com/store/apps/details?id=tk.sebastjanmevlja.spaceinvaders). 
