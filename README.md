@@ -8,6 +8,5 @@ The game is made in the Java programming language and uses the LibGDX library. I
 optimized for all current screen resolutions and Android versions. The application is available
 on the [Google Play store](https://play.google.com/store/apps/details?id=tk.sebastjanmevlja.spaceinvaders). 
   
-  
-![Image](https://github.com/mevljas/SpaceInvaders_Android/blob/master/image.png)
-img[alt=Image] { width: 200px; }
+<img src="https://github.com/mevljas/SpaceInvaders_Android/blob/master/image.png" width="200" height="500" />  
+
