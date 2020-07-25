@@ -10,3 +10,4 @@ on the [Google Play store](https://play.google.com/store/apps/details?id=tk.seba
   
   
 ![Image](https://github.com/mevljas/SpaceInvaders_Android/blob/master/image.png =250x)
+img[alt=Image] { width: 200px; }
