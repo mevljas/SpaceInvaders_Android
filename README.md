@@ -1,4 +1,4 @@
-# Space Invaders Android edition
+# Space Invaders Android Edition
 The goal of the project is to create a video game for the Android operating system. It is based
 on the once popular Space Invaders game and contains many improvements. The goal of the
 game is to win all the levels by defeating all of the opponents and scoring as many points as
@@ -7,3 +7,6 @@ avoid their missiles. It consists of three different levels, which the player ha
 The game is made in the Java programming language and uses the LibGDX library. It is
 optimized for all current screen resolutions and Android versions. The application is available
 on the [Google Play store](https://play.google.com/store/apps/details?id=tk.sebastjanmevlja.spaceinvaders). 
+  
+  
+![Image](https://github.com/mevljas/SpaceInvaders_Android/blob/master/image.png)
