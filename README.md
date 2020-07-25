@@ -9,4 +9,4 @@ optimized for all current screen resolutions and Android versions. The applicati
 on the [Google Play store](https://play.google.com/store/apps/details?id=tk.sebastjanmevlja.spaceinvaders). 
   
   
-![Image](https://github.com/mevljas/SpaceInvaders_Android/blob/master/image.png)
+![Image](https://github.com/mevljas/SpaceInvaders_Android/blob/master/image.png =250x))
